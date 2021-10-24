@@ -1,0 +1,13 @@
+,Keyboard shortcut,Description
+0,Ctrl-P or up-arrow,Search backward in command history for commands starting with currently entered text
+1,Ctrl-N or down-arrow,Search forward in command history for commands starting with currently entered text
+2,Ctrl-R,Readline-style reverse history search (partial matching)
+3,Ctrl-Shift-V,Paste text from clipboard
+4,Ctrl-C,Interrupt currently executing code
+5,Ctrl-A,Move cursor to beginning of line
+6,Ctrl-E,Move cursor to end of line
+7,Ctrl-K,Delete text from cursor until end of line
+8,Ctrl-U,Discard all text on current line
+9,Ctrl-F,Move cursor forward one character
+10,Ctrl-B,Move cursor back one character
+11,Ctrl-L,Clear screen

@@ -1,0 +1,10 @@
+,Method,Description
+0,read([size]),"Return data from file as a string, with optional size argument indicating the number of bytes to read"
+1,readlines([size]),"Return list of lines in the file, with optional size argument"
+2,write(str),Write passed string to file
+3,writelines(strings),Write passed sequence of strings to the file
+4,close(),Close the handle
+5,flush(),Flush the internal I/O buffer to disk
+6,seek(pos),Move to indicated file position (integer)
+7,tell(),Return current file position as integer
+8,closed,True if the file is closed

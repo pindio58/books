@@ -1,0 +1,5 @@
+,Function,Description
+0,"combinations(iterable, k)","Generates a sequence of all possible k-tuples of elements in the iterable, ignoring order and without replacement (see also the companion function combinations_with_replacement)"
+1,"permutations(iterable, k)","Generates a sequence of all possible k-tuples of elements in the iterable, respecting order"
+2,"groupby(iterable[, keyfunc])","Generates (key, sub-iterator) for each unique key"
+3,"product(*iterables, repeat=1)","Generates the Cartesian product of the input iterables as tuples, similar to a nested for loop"

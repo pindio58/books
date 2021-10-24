@@ -1,0 +1,16 @@
+,Command,Description
+0,%quickref,Display the IPython Quick Reference Card
+1,%magic,Display detailed documentation for all of the available magic commands
+2,%debug,Enter the interactive debugger at the bottom of the last exception traceback
+3,%hist,Print command input (and optionally output) history
+4,%pdb,Automatically enter debugger after any exception
+5,%paste,Execute preformatted Python code from clipboard
+6,%cpaste,Open a special prompt for manually pasting Python code to be executed
+7,%reset,Delete all variables/names defined in interactive namespace
+8,%page OBJECT,Pretty-print the object and display it through a pager
+9,%run script.py,Run a Python script inside IPython
+10,%prun statement,Execute statement with cProfile and report the profiler output
+11,%time statement,Report the execution time of a single statement
+12,%timeit statement,Run a statement multiple times to compute an ensemble average execution time; useful for timing code with very short execution time
+13,"%who, %who_ls, %whos","Display variables defined in interactive namespace, with varying levels of information/verbosity"
+14,%xdel variable,Delete a variable and attempt to clear any references to the object in the IPython internals
