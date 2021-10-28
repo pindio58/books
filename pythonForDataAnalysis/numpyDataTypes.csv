@@ -1,0 +1,14 @@
+,Type,Type code,Description
+0,"int8, uint8","i1, u1",Signed and unsigned 8-bit (1 byte) integer types
+1,"int16, uint16","i2, u2",Signed and unsigned 16-bit integer types
+2,"int32, uint32","i4, u4",Signed and unsigned 32-bit integer types
+3,"int64, uint64","i8, u8",Signed and unsigned 64-bit integer types
+4,float16,f2,Half-precision floating point
+5,float32,f4 or f,Standard single-precision floating point; compatible with C float
+6,float64,f8 or d,Standard double-precision floating point; compatible with C double and Python float object
+7,float128,f16 or g,Extended-precision floating point
+8,"complex64, complex128, complex256","c8, c16, c32","Complex numbers represented by two 32, 64, or 128 floats, respectively"
+9,bool,?,Boolean type storing True and False values
+10,object,O,Python object type; a value can be any Python object
+11,string_,S,"Fixed-length ASCII string type (1 byte per character); for example, to create a string dtype with length 10, use 'S10'"
+12,unicode_,U,"Fixed-length Unicode type (number of bytes platform specific); same specification semantics as string_ (e.g., 'U10')"
