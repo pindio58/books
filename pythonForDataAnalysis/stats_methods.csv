@@ -1,0 +1,8 @@
+,Method,Description
+0,sum,Sum of all the elements in the array or along an axis; zero-length arrays have sum 0
+1,mean,Arithmetic mean; zero-length arrays have NaN mean
+2,"std, var","Standard deviation and variance, respectively, with optional degrees of freedom adjustment (default denominator n)"
+3,"min, max",Minimum and maximum
+4,"argmin, argmax","Indices of minimum and maximum elements, respectively"
+5,cumsum,Cumulative sum of elements starting from 0
+6,cumprod,Cumulative product of elements starting from 1

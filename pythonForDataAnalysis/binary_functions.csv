@@ -1,0 +1,12 @@
+,Function,Description
+0,add,Add corresponding elements in arrays
+1,subtract,Subtract elements in second array from first array
+2,multiply,Multiply array elements
+3,"divide, floor_divide",Divide or floor divide (truncating the remainder)
+4,power,Raise elements in first array to powers indicated in second array
+5,"maximum, fmax",Element-wise maximum; fmax ignores NaN
+6,"minimum, fmin",Element-wise minimum; fmin ignores NaN
+7,mod,Element-wise modulus (remainder of division)
+8,copysign,Copy sign of values in second argument to values in first argument
+9,"greater, greater_equal, less, less_equal, equal, not_equal","Perform element-wise comparison, yielding boolean array (equivalent to infix operators >, >=, <, <=, ==, !=)"
+10,"logical_and, logical_or, logical_xor","Compute element-wise truth value of logical operation (equivalent to infix operators & |, ^)"

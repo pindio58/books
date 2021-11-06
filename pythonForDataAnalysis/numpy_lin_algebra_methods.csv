@@ -1,0 +1,12 @@
+,Function,Description
+0,diag,"Return the diagonal (or off-diagonal) elements of a square matrix as a 1D array, or convert a 1D array into a square matrix with zeros on the off-diagonal"
+1,dot,Matrix multiplication
+2,trace,Compute the sum of the diagonal elements
+3,det,Compute the matrix determinant
+4,eig,Compute the eigenvalues and eigenvectors of a square matrix
+5,inv,Compute the inverse of a square matrix
+6,pinv,Compute the Moore-Penrose pseudo-inverse of a matrix
+7,qr,Compute the QR decomposition
+8,svd,Compute the singular value decomposition (SVD)
+9,solve,"Solve the linear system Ax = b for x, where A is a square matrix"
+10,lstsq,Compute the least-squares solution to Ax = b

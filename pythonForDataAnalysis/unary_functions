@@ -1,0 +1,16 @@
+,Function,Description
+0,"abs, fabs","Compute the absolute value element-wise for integer, floating-point, or complex values"
+1,sqrt,Compute the square root of each element (equivalent to arr ** 0.5)
+2,square,Compute the square of each element (equivalent to arr ** 2)
+3,exp,Compute the exponent ex of each element
+4,"log, log10, log2, log1p","Natural logarithm (base e), log base 10, log base 2, and log(1 + x), respectively"
+5,sign,"Compute the sign of each element: 1 (positive), 0 (zero), or –1 (negative)"
+6,ceil,"Compute the ceiling of each element (i.e., the smallest integer greater than or equal to that number)"
+7,floor,"Compute the floor of each element (i.e., the largest integer less than or equal to each element)"
+8,rint,"Round elements to the nearest integer, preserving the dtype"
+9,modf,Return fractional and integral parts of array as a separate array
+10,isnan,Return boolean array indicating whether each value is NaN (Not a Number)
+11,"isfinite, isinf","Return boolean array indicating whether each element is finite (non-inf, non-NaN) or infinite, respectively"
+12,"cos, cosh, sin, sinh, tan, tanh",Regular and hyperbolic trigonometric functions
+13,"arccos, arccosh, arcsin, arcsinh, arctan, arctanh",Inverse trigonometric functions
+14,logical_not,Compute truth value of not x element-wise (equivalent to ~arr).
