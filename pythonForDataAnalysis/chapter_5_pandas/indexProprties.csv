@@ -1,0 +1,12 @@
+,Method,Description
+0,append,"Concatenate with additional Index objects, producing a new Index"
+1,difference,Compute set difference as an Index
+2,intersection,Compute set intersection
+3,union,Compute set union
+4,isin,Compute boolean array indicating whether each value is contained in the passed collection
+5,delete,Compute new Index with element at index i deleted
+6,drop,Compute new Index by deleting passed values
+7,insert,Compute new Index by inserting element at index i
+8,is_monotonic,Returns True if each element is greater than or equal to the previous element
+9,is_unique,Returns True if the Index has no duplicate values
+10,unique,Compute the array of unique values in the Index

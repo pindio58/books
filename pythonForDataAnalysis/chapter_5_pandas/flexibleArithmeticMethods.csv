@@ -1,0 +1,7 @@
+,Method,Description
+0,"add, radd",Methods for addition (+)
+1,"sub, rsub",Methods for subtraction (-)
+2,"div, rdiv",Methods for division (/)
+3,"floordiv, rfloordiv",Methods for floor division (//)
+4,"mul, rmul",Methods for multiplication (*)
+5,"pow, rpow",Methods for exponentiation (**)

@@ -1,0 +1,12 @@
+,Type,Notes
+0,df[val],"Select single column or sequence of columns from the DataFrame; special case conveniences: boolean array (filter rows), slice (slice rows), or boolean DataFrame (set values based on some criterion)"
+1,df.loc[val],Selects single row or subset of rows from the DataFrame by label
+2,"df.loc[:, val]",Selects single column or subset of columns by label
+3,"df.loc[val1, val2]",Select both rows and columns by label
+4,df.iloc[where],Selects single row or subset of rows from the DataFrame by integer position
+5,"df.iloc[:, where]",Selects single column or subset of columns by integer position
+6,"df.iloc[where_i, where_j]",Select both rows and columns by integer position
+7,"df.at[label_i, label_j]",Select a single scalar value by row and column label
+8,"df.iat[i, j]",Select a single scalar value by row and column position (integers)
+9,reindex method,Select either rows or columns by labels
+10,"get_value, set_value methods",Select single value by row and column label
